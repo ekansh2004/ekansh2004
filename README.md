@@ -1,5 +1,5 @@
 Hi i am @ekansh2004
-<br />I am currently a beginner looking to learn java 
+<br />I am currently a beginner looking to learn java and mobile development 
 <br />I currently am pursuing a Bachelor of Technology in Information Technology at Bharti Vidyapeeth College of Engineering
 <br />You can contact me on my email which is ekansh.garg.1804@gmail.com
 
